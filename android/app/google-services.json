@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942623742840",
+    "project_id": "yemektarifleri-275f1",
+    "storage_bucket": "yemektarifleri-275f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942623742840:android:2e4cf3b8b15f5f41c5c68d",
+        "android_client_info": {
+          "package_name": "com.example.untitled4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942623742840-5i6g8b5gjpgbrg1fjmeq7q0rp8sk5vup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2aCz__m3Ggz7cmeMUhEUhMyQReLrqZNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942623742840-5i6g8b5gjpgbrg1fjmeq7q0rp8sk5vup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
